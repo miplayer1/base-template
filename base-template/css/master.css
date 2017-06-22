@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+
+  
+  box-sizing: border-box;
+}
+
+header{
+	height: 100vh;
+	background-image: url(../img/food-salad-restaurant-person.jpg);
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+}
